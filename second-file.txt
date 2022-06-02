@@ -1,0 +1,5 @@
+This is a second file
+this will renamed after a commit to see the functionality of the git mv command
+
+
+
