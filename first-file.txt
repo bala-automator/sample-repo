@@ -6,3 +6,4 @@ this will renamed after a commit to see the functionality of the git mv command
 
 this is a test line for check ing it in local repo
 one more test
+one more test
